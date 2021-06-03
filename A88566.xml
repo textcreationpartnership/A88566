@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The articles of agreement between the King of France, the Parliament, and Parisians. With a list of the names of those who signed thereunto, on the King's, Parliaments, and Citizens behalfe. / Faithfully translated out of the French originall copy, by G. Le Moyne.</title>
+            <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88566</idno><idno type="EEBO-CITATION">99865299</idno>
+  <idno type="VID">117538</idno>
+  <idno type="EEBO-PROQUEST">2240919919</idno>
+  
+            <idno type="STC">Wing L3101</idno>
+            <idno type="STC">Thomason E546_26</idno>
+            <idno type="STC">ESTC R206120</idno>
+            <idno type="PROQUEST">99865299</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865299e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117538)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E546[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The articles of agreement between the King of France, the Parliament, and Parisians. With a list of the names of those who signed thereunto, on the King's, Parliaments, and Citizens behalfe. / Faithfully translated out of the French originall copy, by G. Le Moyne.</title>
+                  <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 16. 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117538:1"/>
+            <p>THE ARTICLES OF AGREEMENT Between the King of <hi>France,</hi> the Par<g ref="char:EOLhyphen"/>liament, and <hi>Parisians. WITH</hi> A LIST of the names of those who signed thereunto, on the King's, Parliaments, and Citizens behalfe. <hi>Faithfully Translated out of the French Originall Copy, by</hi> G. Le Moyne.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. S.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treaty">
+            <pb facs="tcp:117538:2"/>
+            <pb n="1" facs="tcp:117538:2"/>
+            <head>THE ARTICLES OF AGREEMENT Between the King of <hi>France,</hi> the Parlia<g ref="char:EOLhyphen"/>ment and the <hi>Parisians.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He King of <hi>France</hi> being desirous and willing to make known both to his Parliament and to the Citizens and Inhabitants of this good City of <hi>Paris,</hi> how gracious and acceptable were the Representative submissions made and tendred by them to his Majesty, and likewise the Pro<g ref="char:EOLhyphen"/>testations and Assurances of their future Obedience and fidelity, having judiciously and seriously considered upon the conditions and propositions of peace, by the advice of the Queen Regent his mother, hath willingly granted these Articles following.</p>
+            <p n="1">1 That immediately upon the subscription and assigning of this present Accommodation, all sorts and manner of hostility are to cease, and by Land or water, all passages are to be free, and the ordinary and mutuall commerce being re-established, the said Court of Parliament, according and by virtue of his Majesties Order, shall repair forthwith unto the Royall Palace and Castle of St. <hi>Germain</hi> in <hi>Laye,</hi> (10 or 12 miles from the City of <hi>Paris</hi>) where the King sitting in his stately and royall Throne and Seat of Justice, the same Articles and Propositions of peace being read and proclaimed, the said Court of Parliament shall return to <hi>Paris,</hi> to exercise and to performe the ordinary Functions of their Charges and Offices.</p>
+            <pb n="2" facs="tcp:117538:3"/>
+            <p n="2">2 That during this present year 1649 <hi>Stylo novo,</hi> there shall be Concourse or Meeting of all, and every Chamber of Parliament upon any cause, pretext, or occasion whatsoever; except onely for, and upon the reception, and admitting of Officers, and for the great, and Solemne Assemblies, (which the French calls <hi>Mercurialis</hi>) wherein no matter shall be handled, moved or agi<g ref="char:EOLhyphen"/>tated, but onely concerning, and about the Creation, and Ma<g ref="char:EOLhyphen"/>king of such Officers.</p>
+            <p>In the tenor, and contents of the said Proclamation (which is to be published) it shall be expressely specified, and set down: that the will, and pleasure of his Majesty is that the late Declara<g ref="char:EOLhyphen"/>tions of <hi>May, July,</hi> and <hi>October</hi> in the yeare 1648 verified, and confirmed in Parliament, shall remaine, and continue in full force, and vertue (except onely the matter of <hi>Mutuations</hi> or borrowed Moneys) as it shall be more at large expounded hereafter.</p>
+            <p>Moreover it is agreed upon that all decrees, sentences, and judgements made, and pronounced by the said Court of Parlia<g ref="char:EOLhyphen"/>ment of <hi>Paris,</hi> since the 6 of <hi>January</hi> last, untill this present, are to be disanulled, and void; except such decrees, and sentences given, and rendered in presence, and hearing of the Kings Gen: Advocate or Attourney, and other particular persons, and parties being present, as well in Civill, as in Criminall matters of Ad<g ref="char:EOLhyphen"/>judication by the Court or decree, or reception and admitting of Officers.</p>
+            <p>The letters, and patents granted under the private signet, of his Majesty, and expedited in order, and consequence of the last troubles, and Commotions arrived, and caused within, or with<g ref="char:EOLhyphen"/>out the said City of <hi>Paris:</hi> as also such Proclamations enacted, and published in and by the Kings Counsell, judgements, decrees, and sentences, and Ordinances of the same upon and about the troubles and combustions, since the sixth of <hi>January</hi> last, are by this Agreement to be void, and of no force or effect.</p>
+            <pb n="3" facs="tcp:117538:3"/>
+            <p>All Souldiers and men of War levied, and taken up, both within and without the said City of <hi>Paris,</hi> either by vertue or authority of the said Court of Parliament, or by the power and Commission of the said City, shall be dismissed and sent away immediately upon the conclusion and subscribing of this present Agreement and Articles of peace.</p>
+            <p>And likewise his Majesty to disband all his Troops, Souldiers, and men of War from all, and from every place adjacent, and neer the said City of <hi>Paris,</hi> and to send them and every one of them into the Garrisons appointed by his Majesty as it was used in the late yeare past.</p>
+            <p>It is also agreed that the Inhabitants, Citizens, and the people of <hi>Paris;</hi> shall lay down their arms and weapons, as soon as those same Articles are subscribed; and are not to take arms again, but onely by the permission, advice or command of his Majesty.</p>
+            <p>Moreover, the Deputy Agent, or Commissioner of and from the Archduke <hi>Leopold,</hi> being now at <hi>Paris,</hi> shall be discharged, and sent home as soon as possibly may be; after, and upon the concluding, and signing of the present Agreement.</p>
+            <p n="4">4 That all papers, housholdstuffs, and all other goods (being extant at this present) shall be Rendred and Restored to the same owners, and persons from whom they have been taken. The Royall Tower, or <hi>Bastile,</hi> with the <hi>Arsinall</hi> (or Store-house) to<g ref="char:EOLhyphen"/>gether with all the Artillery, Cannons, Bullets, powder, Gra<g ref="char:EOLhyphen"/>nadoes, and such like Munitions, and provisions of War, are to be surrendred, and delivered up into his Majesties hands, and di<g ref="char:EOLhyphen"/>sposing, after, and in order to this present Accommodation.</p>
+            <p n="5">5 It is agreed, that it is left in his Majesties permission, and discretion to borrow such sums, and quantity of moneys, as hee shall think fit, and expedient for the charges and expences of the State, paying for the use and interest of the said money at the <hi>Pro rata;</hi> and rate of 8 <hi>per Centum,</hi> and that onely during this present, and the next yeer following.</p>
+            <pb n="2" facs="tcp:117538:4"/>
+            <p>That the Lord or Prince <hi>de Conty,</hi> and the others Princes, Dukes, Peers, Noblemen, Officers of the Crown, Gentlemen, Cities, Towns, Corporations, Communalties, and all other persons of whatsoever quality degree, or conditions, that have taken arms during those last Insurrections of the City of <hi>Paris,</hi> since the sixth of <hi>January</hi> last, til this present moneth of <hi>March,</hi> shall be maintained in the possession of their Meanes, Goods, Rights, Livings, Dignities, Honours, Priviledges, Preroga<g ref="char:EOLhyphen"/>tives, Charges, Governments, and in the same Places, Estates, and Condition as they were in afore the levying and taking up of the said Arms, being out of any danger to be disquieted, or call'd in question for the same upon any Cause, Pretence, or Oc<g ref="char:EOLhyphen"/>casion whatsoever: the said Princes, Lords, Noblemen, and Of<g ref="char:EOLhyphen"/>ficers declaring, and protesting openly, to wit, the said Duke of <hi>Longaville,</hi> within ten days, and the others within four days, be<g ref="char:EOLhyphen"/>ginning at and from the very day as all passages, hinderances, and all kind of impediments both for victuals, as for traffick, and commerce shall be free, and opened; that they consent, and de<g ref="char:EOLhyphen"/>sire to be comprehended within this said Agreements and Arti<g ref="char:EOLhyphen"/>cles of Peace, and upon their deniall, or Refusall to make such a Declaration within the space of the said time limited: the Cor<g ref="char:EOLhyphen"/>poration and body of the said Citizens &amp; Inhabitants of <hi>Paris,</hi> the whole people all, and every one of whatsoever quality, and condition, shall not joyn with them, nor take any part in or with their Interest, nor shall aid or assist them, or any of them under; or upon any pretext, occasion or pretence whatsoever.</p>
+            <p>His Majesty being very willing, and desirous to testifie his love and affection to the said Burgesses, Citizens, and others In<g ref="char:EOLhyphen"/>habitants of his good City of <hi>Paris,</hi> is resolved to return, &amp; to a<g ref="char:EOLhyphen"/>bide within the said city, assoon as his great affairs wil permithim.</p>
+            <p n="2">2 Our general Acquittance, and ful discharge is to be granted for all the sums of Money levied, taken or received, either upon the publike, or some perticulars: and likewise for houshold stuff,
+<pb n="5" facs="tcp:117538:4"/>commodities, and all kind of goods taken, or sold, either at <hi>Paris,</hi> or any where else: and also for all Commissions given and gran<g ref="char:EOLhyphen"/>ted for taking up off Souldiers, and men of War. <hi>Item,</hi> for ta<g ref="char:EOLhyphen"/>king and transporting away all manner of Armes, Weapons, Guns, Powder, or any other Ammunitions, and provisions for War; and finally, for any victuals, which might have been vio<g ref="char:EOLhyphen"/>lently, or otherwise taken from the very Arsenall, or any Royall Magazine, or Store-house at <hi>Paris,</hi> or any where else.</p>
+            <p>The elections of the Towns and places of <hi>Saintes, Coignac,</hi> and <hi>St. John d' Angely,</hi> distracted and severed from the Court <hi>des Aydes</hi> of <hi>Paris,</hi> now annexed and joyned to the Court <hi>des Aydes</hi> of <hi>Guyenne,</hi> are to be re-united to the said Court of <hi>Paris,</hi> as they were before those last troubles.</p>
+            <p>And in case the Parliament of <hi>Roven</hi> will accept and give their consent to these Articles, and agreement within the space of ten dayes, <hi>viz:</hi> from the day of the concluding, and signing of the same; his Majesty will provide and give order for the suppres<g ref="char:EOLhyphen"/>sing of the new (Originall <hi>Semestre</hi>) renewing of all Officers, and distribution off them to the body of the Parliament.</p>
+            <p>Moreover the transaction, and Agreement made with the Par<g ref="char:EOLhyphen"/>liament of <hi>Provence</hi> shall be effected, &amp; observed according to its own form, and tenor, and one patent presently expedited and sent out for the Revocation, or suppressing of the <hi>(Semestre)</hi> from the said Parliament of <hi>Aix:</hi> and from the Chamber of enqui<g ref="char:EOLhyphen"/>ring (Originall <hi>la Chambres des Enquestes.</hi> According to the Ar<g ref="char:EOLhyphen"/>ticles agreed upon, betwixt the Deputies, or Commissioners of his Majesty, and the said Court of Parliament of <hi>Provence,</hi> bea<g ref="char:EOLhyphen"/>ring date the 21 of <hi>February</hi> last: a Copy whereof hath been gi<g ref="char:EOLhyphen"/>ven and delivered to the Deputies or Commissioners of the Par<g ref="char:EOLhyphen"/>liament of <hi>Paris.</hi>
+            </p>
+            <p>And as concerning the Easing, &amp; Disburthning of the Taxes and Impositions propounded by the Election of the said City of <hi>Paris;</hi> the King promised to inform himself of the Case, and
+<pb n="6" facs="tcp:117538:5"/>state the same Election is now in; so soon as the Troopers, Soul<g ref="char:EOLhyphen"/>diers, and men of War, are departed, and gone from thence, and wil provide an Order for the diminution, and easing of the Con<g ref="char:EOLhyphen"/>tributions of the said Election, even as his Majesty shal think it fit and expedient.</p>
+            <p>And when his Majesty is pleased to send some Deputies and Commissioners for to treat of peace with <hi>Spaine,</hi> some of the Officers, and Presidents of the Parliament of <hi>Paris,</hi> are to be chosen for to aid and assist at the said Treaties of Peace, with equall, and the very same power and authority which shall be given to the other Commoners.</p>
+            <p n="7">7 By vertue, and in order of this same Agreement and Con<g ref="char:EOLhyphen"/>clusion of Peace; all prisoners taken on either side, or to be put in their own, and free liberty, upon th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very day, and instant of the publication and proclamation of these present Articles of Agree<g ref="char:EOLhyphen"/>ment made and agreed upon this 9 of <hi>March, (stylo novo)</hi> 1649.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <head>Signed on the Kings side.</head>
+                     <item>
+                        <hi>Gaston Lovis de Bourbon,</hi>
+                     </item>
+                     <item>Cardinall <hi>Mazarin,</hi>
+                     </item>
+                     <item>
+                        <hi>Sequier la Milleray,</hi>
+                     </item>
+                     <item>
+                        <hi>De Mesme de Lominie,</hi>
+                     </item>
+                     <item>
+                        <hi>De la Riviere le Tillier.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>For the Parliament.</head>
+                     <item>
+                        <hi>Molé de Mesme,</hi>
+                     </item>
+                     <item>
+                        <hi>De Nesmond,</hi>
+                     </item>
+                     <item>
+                        <hi>Menardían,</hi>
+                     </item>
+                     <item>
+                        <hi>Le Fibure,</hi>
+                     </item>
+                     <item>
+                        <hi>De Longuevill,</hi>
+                     </item>
+                     <item>
+                        <hi>Le Cocq.</hi>
+                     </item>
+                     <item>
+                        <hi>Le Cogniux,</hi>
+                     </item>
+                     <item>
+                        <hi>Viole Bitault,</hi>
+                     </item>
+                     <item>
+                        <hi>De la Nauue,</hi>
+                     </item>
+                     <item>
+                        <hi>Palteau.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>For the Court of <hi>Aydes</hi>
+                     </head>
+                     <item>
+                        <hi>Amilot,</hi>
+                     </item>
+                     <item>
+                        <hi>De Bragelone,</hi>
+                     </item>
+                     <item>Foure men.</item>
+                  </list>
+                  <list>
+                     <head>For the City of <hi>Paris.</hi>
+                     </head>
+                     <item>
+                        <hi>Fournier,</hi>
+                     </item>
+                     <item>
+                        <hi>Holliot,</hi>
+                     </item>
+                     <item>
+                        <hi>Bertilin.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>For the Chamber of Accompts (Orig.) <hi>Chambre des Comptes,</hi>
+                     </head>
+                     <item>
+                        <hi>Nicholas,</hi>
+                     </item>
+                     <item>
+                        <hi>De Paris,</hi>
+                     </item>
+                     <item>
+                        <hi>Lescuyer,</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed>Theo: Jennings</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
